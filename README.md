@@ -22,7 +22,7 @@ Sesuai keterangannya, notifin menghadirkan 3 jenis interaction box yang dapat di
 
 Letakkan tag script ini pada bagian sebelum penutup tag body
 ```html
-<script src="https://cdn.statically.io/gh/devanka761/notipin/v1.26.00/all.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/Samuelpasaribu/notipin@main/notipin.js"></script>
 ```
 > Silakan update ke versi 1.26.00 jika menggunakan versi lama agar bisa menggunakan fitur-fitur terbaru dan mendapat perbaikan bug dari versi sebelum-sebelumnya.
 ## PENGGUNAAN
